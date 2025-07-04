@@ -7,7 +7,7 @@ Rencana Progress :
 - menghosting hasil praktik
 
 Belajat Framework css
-- Bootsrap
+- Bootsrap 5
 
 Belajar Framework Javascript
 - Angular
