@@ -8,3 +8,6 @@ Rencana Progress :
 
 Belajar Framework css
 - Tailwind
+
+Belajar Framework Javascript
+- Vue
