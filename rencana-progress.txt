@@ -7,7 +7,7 @@ Rencana Progress :
 - menghosting hasil praktik
 
 Belajar Framework css
-- Tailwind
+- Tailwind terbaru
 
 Belajar Framework Javascript
 - Vue
