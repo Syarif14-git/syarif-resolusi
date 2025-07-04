@@ -5,3 +5,9 @@ Rencana Progress :
 - sering-sering praktik
 - membuat website setelah paham materi
 - menghosting hasil praktik
+
+Belajar Framework css
+- Tailwind terbaru
+
+Belajar Framework Javascript
+- Vue
