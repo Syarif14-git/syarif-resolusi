@@ -8,3 +8,7 @@ Rencana Progress :
 
 Belajat Framework css
 - Bootsrap
+
+Belajar Framework Javascript
+- Angular
+- React
