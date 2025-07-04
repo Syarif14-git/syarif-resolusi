@@ -5,3 +5,6 @@ Rencana Progress :
 - sering-sering praktik
 - membuat website setelah paham materi
 - menghosting hasil praktik
+
+Belajat Framework css
+- Bootsrap
